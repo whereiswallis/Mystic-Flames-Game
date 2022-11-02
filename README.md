@@ -2,7 +2,7 @@
 
 Game Instructions:
 
-As described above, the game is a classic RPG with conventional controls listed below:
+The game is a classic RPG with conventional controls listed below:
 
 WASD keys for up, left, down and right respectively movement binds
 
